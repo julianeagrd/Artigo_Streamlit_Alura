@@ -1,4 +1,5 @@
-pandas
-seaborn
-matplotlib
 streamlit
+pandas
+plotly
+wordcloud
+matplotlib
